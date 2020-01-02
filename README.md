@@ -3,7 +3,7 @@ tranactionLog analysis with R
 
 
 
-![Dataformat](./iamge/dataFormat.jpg)
+![Dataformat](./image/dataFormat.JPG)
 
 
-![Graph](./image/graph.jpg)
+![Graph](./image/graph.JPG)
